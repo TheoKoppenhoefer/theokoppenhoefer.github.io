@@ -24,9 +24,9 @@ I also like reading. A lot. Besides of that I regularly go out for hikes and cyc
 |:--- |:----|
 |autumn 2022 - spring 2024| Mathematics Msc. (in progress), Lunds Universitet, Sweden |
 |autumn 2023 - spring 2024| Svenska som andraspråk 1 (in progress), Komvux Lund, Sweden |
-|spring 2023 - autumn 2023| Svenska för invandrare (mark: G), Komvux Malmö, Sweden |
-|autumn 2019 - summer 2022| Mathematics Bsc. (mark: 1.3), Universität Bonn, Germany |
-|autumn 2011 - summer 2019| Abitur (mark: 1.0), St. Raphael Gymnasium, Heidelberg, Germany |
+|spring 2023 - autumn 2023| Svenska för invandrare, Komvux Malmö, Sweden |
+|autumn 2019 - summer 2022| Mathematics Bsc., Universität Bonn, Germany |
+|autumn 2011 - summer 2019| Abitur, St. Raphael Gymnasium, Heidelberg, Germany |
 
 ### Theses
 
@@ -50,7 +50,7 @@ I also like reading. A lot. Besides of that I regularly go out for hikes and cyc
 |English| Native |
 |German| Native |
 |Swedish| Intermediary |
-|French| Basic (according to the abitur B2) |
+|French| Basic |
 |Latin| Basic |
 
 
