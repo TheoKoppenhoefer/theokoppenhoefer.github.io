@@ -14,25 +14,43 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Theo Koppenhöfer
-author: Theo Koppenhöfer
-email: th1880ko-s[at]student.lu.se
 description: >- # this means to ignore newlines until "baseurl:"
   Personal cite of Theo Koppenhöfer. CV and links to various reports and projects.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
+
+tagline:             ''
+description:         'Personal cite of Theo Koppenhöfer. CV and links to various reports and projects.'
+baseurl:             ''
+paginate:            4
+permalink:           pretty
+
+
+# About/contact
+author:
+  name:              Theo Koppenhöfer
+#  url:               https://twitter.com/mdo
+email: th1880ko-s[at]student.lu.se
 #gitlab_username: jekyllrb
 github_username:  TheoKoppenhoefer
 
 # Build settings
 markdown: kramdown
-theme: minima
+#theme: minima
+#remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+#remote_theme: "johno/pixyll"
+remote_theme: "poole/lanyon"
+#remote_theme: aterenin/minima-reboot
 plugins:
-  - jekyll-feed
+#  - jekyll-feed
+#  - jekyll-include-cache
+  - jekyll-paginate
 
-#header_pages:
-#  - about.md
+header_pages:
+  - home.md
 #  - curriculumVitae/curriculumVitae.md
-#  - curriculumVitae.md
+  - curriculumVitae.md
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
