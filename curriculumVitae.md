@@ -7,8 +7,10 @@ title: Curriculum vitae
 permalink: /curriculumVitae/
 ---
 
-Currently I am a mathematics student at Lund university. Below you may find an abbreviated CV of me. You may find that I like maths. More specifically I focus on analysis of partial differential equations and numerical analysis though you may find that I have taken courses all over the shop in mathematics (and some physics).
-I also like reading. A lot. Besides of that I regularly go out for hikes and cycle rides in the surrounding nature. Feel free to [contact](/contact/) me if you have any question, suggestions or remarks.
+Currently I am a mathematics student at Lund university. You may find that I like maths. More specifically I focus on analysis of partial differential equations and numerical analysis though you may find that I have taken courses all over the shop in mathematics (and some physics).
+I also like reading. A lot. Besides of that I regularly go out for hikes and cycle rides in the surrounding nature.
+Below you may find an abbreviated CV of me. You may also find this abbreviated CV in [pdf](/assets/CV/CV_TheoKoppenhoefer.pdf) format.
+Feel free to [contact](/contact/) me if you have any question, suggestions or remarks.
 
 ### Facts
 
@@ -31,8 +33,8 @@ I also like reading. A lot. Besides of that I regularly go out for hikes and cyc
 ### Theses
 
 |:--- |:----|
-|Master thesis in applied analysis under the supervision of [Erik Wahlén](https://www.maths.lu.se/english/research/staff/erik-wahlen/) (in progress)| [Some relations between equilibria of harmonic vector fields and the domain topology](https://github.com/TheoKoppenhoefer/master-thesis/blob/main/Text/Thesis_TheoKoppenhoefer.pdf)|
-|Bachelor thesis in numerics under the supervision of [Joscha Gedicke](https://ins.uni-bonn.de/staff/gedicke) | [Adaptive finite element methods in linear elasticity (in german)](https://github.com/TheoKoppenhoefer/bachelorarbeit/blob/main/Text/Bachelorarbeit_Hauptteil.pdf) |
+| Master thesis   | [Some relations between equilibria of harmonic vector fields and the domain topology](https://raw.githubusercontent.com/TheoKoppenhoefer/master-thesis/main/Text/Thesis_TheoKoppenhoefer.pdf) (in progress), applied analysis, under the supervision of [Erik Wahlén](https://www.maths.lu.se/english/research/staff/erik-wahlen/) |
+| Bachelor thesis | [Adaptive finite element methods in linear elasticity](https://raw.githubusercontent.com/TheoKoppenhoefer/bachelorarbeit/main/Text/Bachelorarbeit_Hauptteil.pdf) (in German, mark: 1.1), numerics, under the supervision of [Joscha Gedicke](https://ins.uni-bonn.de/staff/gedicke)                                                |
 
 ### Computing experience
 

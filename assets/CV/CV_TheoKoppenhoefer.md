@@ -42,10 +42,10 @@ surrounding nature. Originally I am from Heidelberg, Germany.
 
 # Theses
 
-|                 |                                                                                                                                                                                                                                                                                                                          |
-| :-------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Master thesis   | [Some relations between equilibria of harmonic vector fields and the domain topology](https://github.com/TheoKoppenhoefer/master-thesis/blob/main/Text/Thesis_TheoKoppenhoefer.pdf) (in progress), applied analysis, under the supervision of [Erik Wahlén](https://www.maths.lu.se/english/research/staff/erik-wahlen/) |
-| Bachelor thesis | [Adaptive finite element methods in linear elasticity](https://github.com/TheoKoppenhoefer/bachelorarbeit/blob/main/Text/Bachelorarbeit_Hauptteil.pdf) (in German, mark: 1.1), numerics, under the supervision of [Joscha Gedicke](https://ins.uni-bonn.de/staff/gedicke)                                                |
+|                 |                                                                                                                                                                                                                                                                                                                                    |
+| :-------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Master thesis   | [Some relations between equilibria of harmonic vector fields and the domain topology](https://raw.githubusercontent.com/TheoKoppenhoefer/master-thesis/main/Text/Thesis_TheoKoppenhoefer.pdf) (in progress), applied analysis, under the supervision of [Erik Wahlén](https://www.maths.lu.se/english/research/staff/erik-wahlen/) |
+| Bachelor thesis | [Adaptive finite element methods in linear elasticity](https://raw.githubusercontent.com/TheoKoppenhoefer/bachelorarbeit/main/Text/Bachelorarbeit_Hauptteil.pdf) (in German, mark: 1.1), numerics, under the supervision of [Joscha Gedicke](https://ins.uni-bonn.de/staff/gedicke)                                                |
 
 # Computing skills
 
