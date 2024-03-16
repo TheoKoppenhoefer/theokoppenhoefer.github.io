@@ -25,8 +25,7 @@ Feel free to [contact](/contact/) me if you have any question, suggestions or re
 |Year | Institution  | 
 |:--- |:----|
 |autumn 2022 - spring 2024| Mathematics Msc. (in progress), [Lunds Universitet](https://maths.lu.se/), Sweden |
-|autumn 2023 - spring 2024| Svenska som andraspråk 1 (in progress), Komvux Lund, Sweden |
-|spring 2023 - autumn 2023| Svenska för invandrare, Komvux Malmö, Sweden |
+|autumn 2023 - spring 2024| Svenska som andraspråk 1, Komvux Lund, Sweden |
 |autumn 2019 - summer 2022| Mathematics Bsc., [Universität Bonn](http://www.math.uni-bonn.de/), Germany |
 |autumn 2011 - summer 2019| Abitur, [St. Raphael Gymnasium](https://www.srgh.de/), Heidelberg, Germany |
 
