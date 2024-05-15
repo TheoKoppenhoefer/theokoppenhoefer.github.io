@@ -24,16 +24,16 @@ Feel free to [contact](/contact/) me if you have any question, suggestions or re
 
 |Year | Institution  | 
 |:--- |:----|
-|autumn 2022 - spring 2024| Mathematics Msc. (in progress), [Lunds Universitet](https://maths.lu.se/), Sweden |
-|autumn 2023 - spring 2024| Svenska som andraspråk 1, Komvux Lund, Sweden |
+|autumn 2022 - June 2024| Mathematics Msc. (in progress), [Lunds Universitet](https://maths.lu.se/), Sweden |
+|spring 2023 - June 2024| Svenska som andraspråk 2, Komvux Lund, Sweden |
 |autumn 2019 - summer 2022| Mathematics Bsc., [Universität Bonn](http://www.math.uni-bonn.de/), Germany |
 |autumn 2011 - summer 2019| Abitur, [St. Raphael Gymnasium](https://www.srgh.de/), Heidelberg, Germany |
 
 ### Theses
 
 |:--- |:----|
-| Master thesis   | [Some relations between equilibria of harmonic vector fields and the domain topology](https://raw.githubusercontent.com/TheoKoppenhoefer/master-thesis/main/Text/Thesis_TheoKoppenhoefer.pdf) (in progress), applied analysis, under the supervision of [Erik Wahlén](https://www.maths.lu.se/english/research/staff/erik-wahlen/) |
-| Bachelor thesis | [Adaptive finite element methods in linear elasticity](https://raw.githubusercontent.com/TheoKoppenhoefer/bachelorarbeit/main/Text/Bachelorarbeit_Hauptteil.pdf) (in German), numerics, under the supervision of [Joscha Gedicke](https://ins.uni-bonn.de/staff/gedicke)                                                |
+| Master thesis   | [Stagnation Points of Harmonic Vector Fields and the Domain Topology](https://raw.githubusercontent.com/TheoKoppenhoefer/master-thesis/main/Text/Thesis_TheoKoppenhoefer.pdf), applied analysis, under the supervision of [Erik Wahlén](https://www.maths.lu.se/english/research/staff/erik-wahlen/) |
+| Bachelor thesis | [Adaptive Finite Element Methods in Linear Elasticity](https://raw.githubusercontent.com/TheoKoppenhoefer/bachelorarbeit/main/Text/Bachelorarbeit_Hauptteil.pdf) (in German), numerics, under the supervision of [Joscha Gedicke](https://ins.uni-bonn.de/staff/gedicke)                                                |
 
 ### Computing experience
 
