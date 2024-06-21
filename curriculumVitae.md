@@ -7,7 +7,7 @@ title: Curriculum vitae
 permalink: /curriculumVitae/
 ---
 
-Currently I am a mathematics student at Lund university. You may find that I like maths. More specifically I focus on analysis of partial differential equations and numerical analysis though you may find that I have taken courses all over the shop in mathematics (and some physics).
+Currently I am a mathematics student at Lund university. In fall 2024 I will start a PhD at Heriot Watt University in Edinburgh. You may find that I like maths. More specifically I focus on analysis of partial differential equations and numerical analysis though you may find that I have taken courses all over the shop in mathematics (and some physics).
 I also like reading. A lot. Besides of that I regularly go out for hikes and cycle rides in the surrounding nature.
 Below you may find an abbreviated CV of me. You may also find this abbreviated CV in [pdf](/assets/CV/CV_TheoKoppenhoefer.pdf) format.
 Feel free to [contact](/contact/) me if you have any question, suggestions or remarks.
@@ -24,7 +24,8 @@ Feel free to [contact](/contact/) me if you have any question, suggestions or re
 
 |Year | Institution  | 
 |:--- |:----|
-|autumn 2022 - June 2024| Mathematics Msc. (in progress), [Lunds Universitet](https://maths.lu.se/), Sweden |
+|September 2024 - 2027| Mathematics PhD, [Heriot Watt University](https://www.maxwell.ac.uk/), Scottland |
+|autumn 2022 - June 2024| Mathematics Msc., [Lunds Universitet](https://maths.lu.se/), Sweden |
 |spring 2023 - June 2024| Svenska som andraspråk 2, Komvux Lund, Sweden |
 |autumn 2019 - summer 2022| Mathematics Bsc., [Universität Bonn](http://www.math.uni-bonn.de/), Germany |
 |autumn 2011 - summer 2019| Abitur, [St. Raphael Gymnasium](https://www.srgh.de/), Heidelberg, Germany |
