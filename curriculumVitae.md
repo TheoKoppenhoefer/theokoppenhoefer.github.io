@@ -26,7 +26,7 @@ Feel free to [contact](/contact/) me if you have any question, suggestions or re
 
 |Year | Institution  | 
 |:--- |:----|
-|September 2024 - 2027| Mathematics PhD, [Heriot Watt University](https://www.maxwell.ac.uk/), Scottland |
+|September 2024 - 2027| Mathematics PhD, [Heriot Watt University](https://www.maxwell.ac.uk/), Scotland |
 |autumn 2022 - June 2024| Mathematics Msc., [Lunds Universitet](https://maths.lu.se/), Sweden |
 |spring 2023 - June 2024| Svenska som andraspråk 2, Komvux Lund, Sweden |
 |autumn 2019 - summer 2022| Mathematics Bsc., [Universität Bonn](http://www.math.uni-bonn.de/), Germany |

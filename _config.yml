@@ -21,8 +21,8 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 tagline:             ''
-description:         'Personal cite of Theo Koppenhöfer. CV and links to various reports and projects.'
-baseurl:             ''
+# description:         'Personal cite of Theo Koppenhöfer. CV and links to various reports and projects.'
+# baseurl:             ''
 paginate:            4
 permalink:           pretty
 
