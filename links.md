@@ -7,7 +7,23 @@ title: Links
 permalink: /links/
 ---
 
+
+### Theses
+
+|:--- |:----|
+| Master thesis   | [Stagnation Points of Harmonic Vector Fields and the Domain Topology](https://raw.githubusercontent.com/TheoKoppenhoefer/master-thesis/main/Text/Thesis_TheoKoppenhoefer.pdf), applied analysis, under the supervision of [Erik Wahlén](https://www.maths.lu.se/english/research/staff/erik-wahlen/) |
+| Bachelor thesis | [Adaptive Finite Element Methods in Linear Elasticity](https://raw.githubusercontent.com/TheoKoppenhoefer/bachelorarbeit/main/Text/Bachelorarbeit_Hauptteil.pdf) (in German), numerics, under the supervision of [Joscha Gedicke](https://ins.uni-bonn.de/staff/gedicke) |
+
+
+
+
 ### Some project reports and presentations
+
+Project reports and presentations at Heriot-Watt university
+
+| Course | Content and links |
+|:--- |:----|
+| Gradient flows, Edinburgh, Winter 2024| A presentation on the [Fokker-Planck equation and the Wasserstein metric](https://raw.githubusercontent.com/TheoKoppenhoefer/gradient-flows-as2024/master/Presentation_TheoKoppenhoefer.pdf). |
 
 Project reports and presentations at Lunds universitet.
 

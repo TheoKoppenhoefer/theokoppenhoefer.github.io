@@ -4,7 +4,7 @@
 
 layout: default
 Title: Home
----
+---u
 
 {:refdef: style="text-align: center;"}
 ![Me in the Buga](/assets/meInBuga2.jpg){: style="display:block;margin-left:auto; margin-right:auto" width="30%"}
