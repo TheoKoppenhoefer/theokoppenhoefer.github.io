@@ -8,9 +8,12 @@ permalink: /curriculumVitae/
 ---
 
 Currently I am a PhD student at Heriot Watt University in Edinburgh.
-You may find that I like maths. More specifically I focus on analysis of partial differential equations.
+You may find that I like maths. More specifically I focus on analysis of partial differential equations and more specifically water waves under the supervision
+of [Daniel Coutand](https://researchportal.hw.ac.uk/en/persons/daniel-coutand/)
+and [Beatrice Pelloni](https://researchportal.hw.ac.uk/en/persons/beatrice-pelloni/).
 During my bachelors I also focused on numerical analysis though I have taken courses all over the shop in mathematics (and some physics).
-I also like reading. A lot. Besides of that I regularly go out for hikes and cycle rides in the surrounding nature.
+As a result of a summer project in 2024 I am one of the co-founders of [kravianalytics](https://www.kravianalytics.com/).
+When I find the time I enjoy reading. A lot. Besides of that I regularly go out for hikes and cycle rides in the surrounding nature.
 Below you may find an abbreviated CV of me. You may also find this abbreviated CV in [pdf](/assets/CV/CV_TheoKoppenhoefer.pdf) format.
 Feel free to [contact](/contact/) me if you have any question, suggestions or remarks.
 
@@ -45,7 +48,7 @@ Feel free to [contact](/contact/) me if you have any question, suggestions or re
 |Mathematical languages| Wolfram Matematica, Matlab, Maple |
 |Basic webdesign| HTML, Javascript, CSS, php (I maintained the website calcfee.com for a year where one could calculate paypal transaction fees) |
 |Linux / Unix| git, bash, makefiles |
-|Other| LaTeX |
+|Other| LaTeX, Docker |
 
 ### Languages
 
@@ -58,3 +61,11 @@ Feel free to [contact](/contact/) me if you have any question, suggestions or re
 |Latin| Basic |
 
 
+### Other
+
+|:--- |:----|
+|October 2025 - January 2026 | PhD representative for the Heriot-Watt [University Committee for Research and Innovation](https://www.hw.ac.uk/about/professional-services/governance-and-legal-services/policy-and-governance/senate/senate-committees/university-committee-for-research-and-innovation) |
+|August 2025 - | PhD representative for mathematics at [Heriot Watt University](https://www.maxwell.ac.uk/) |
+|December 2024 - | One of the organisers of the [Heriot-Watt MACS PhD seminar](https://sites.google.com/view/hwmacsphdseminar/home/) |
+|Summer 2024 - | Spend my free time advising and coding for [kravianalytics](https://www.kravianalytics.com/) |
+|June 2024 - September 2024| Programmed a prototype vessel detection software for what became [kravianalytics](https://www.kravianalytics.com/) |
