@@ -64,8 +64,8 @@ Feel free to [contact](/contact/) me if you have any question, suggestions or re
 ### Other
 
 |:--- |:----|
-|October 2025 - January 2026 | PhD representative for the Heriot-Watt [University Committee for Research and Innovation](https://www.hw.ac.uk/about/professional-services/governance-and-legal-services/policy-and-governance/senate/senate-committees/university-committee-for-research-and-innovation) |
+|October 2025 - October 2026 | PhD representative for the Heriot-Watt [University Committee for Research and Innovation](https://www.hw.ac.uk/about/professional-services/governance-and-legal-services/policy-and-governance/senate/senate-committees/university-committee-for-research-and-innovation) |
 |August 2025 - | PhD representative for mathematics at [Heriot Watt University](https://www.maxwell.ac.uk/) |
-|December 2024 - | One of the organisers of the [Heriot-Watt MACS PhD seminar](https://sites.google.com/view/hwmacsphdseminar/home/) |
+|December 2024 - September 2026 | One of the organisers of the [Heriot-Watt MACS PhD seminar](https://sites.google.com/view/hwmacsphdseminar/home/) |
 |Summer 2024 - | Spend my free time advising and coding for [kravianalytics](https://www.kravianalytics.com/) |
 |June 2024 - September 2024| Programmed a prototype vessel detection software for what became [kravianalytics](https://www.kravianalytics.com/) |
